@@ -1,3 +1,9 @@
+Project Progression:
+-First I ran the command to build the project environment.
+-Then, I focused to learn how to render a stopwatch.
+-After the first run, I got comfortable and started to work on a clock render. Now, this was a little challenging
+due to formats and extraction from new Date() data.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
