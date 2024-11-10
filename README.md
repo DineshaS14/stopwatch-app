@@ -1,7 +1,9 @@
+The Stopwatch Application is a simple React app that displays the current time in Eastern Standard Time (EST), along with the date, and a real-time stopwatch that updates every second. This application demonstrates basic React functionality and date/time manipulation, providing a foundational framework for future enhancements such as user-selectable time zones, stopwatch controls, and additional features like timers and alarms.
+
 Project Progression:
--First I ran the command to build the project environment.
--Then, I focused to learn how to render a stopwatch.
--After the first run, I got comfortable and started to work on a clock render. Now, this was a little challenging
+First I ran the command to build the project environment.
+Then, I focused to learn how to render a stopwatch.
+After the first run, I got comfortable and started to work on a clock render. Now, this was a little challenging
 due to formats and extraction from new Date() data.
 
 # Getting Started with Create React App
